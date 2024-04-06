@@ -11,4 +11,5 @@ float SI = (p*r*t)/100;
 
 cout<<SI;
 
+
 }
